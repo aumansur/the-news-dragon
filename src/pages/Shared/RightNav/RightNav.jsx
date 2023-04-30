@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, ListGroup } from 'react-bootstrap'; 
+import { Button, ListGroup } from 'react-bootstrap';
 import { BsGoogle, BsGithub, BsFacebook, BsTwitter, BsInstagram } from 'react-icons/bs';
 import QZone from '../QZone/QZone';
 
